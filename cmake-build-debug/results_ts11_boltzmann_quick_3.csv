@@ -1,0 +1,5 @@
+Nazwa pliku;Powtorzenia algorytmu;Optymalny koszt;Schemat chłodzenia;Sposób zamiany;Liczba epok;Temperatura startowa;Wyspółczynnik wychładzania;Czas 1;Koszt 1;Strata 1;Czas 2;Koszt 2;Strata 2;Czas 3;Koszt 3;Strata 3;Średnia strata;
+u_2319.txt;1;234256;boltzmann;quick;0;46380;boltzmann;121433;890811;280.272;280.272;
+u_2319.txt;1;234256;boltzmann;quick;69570;46380;boltzmann;120307;863002;268.401;268.401;
+u_2319.txt;1;234256;boltzmann;quick;139140;46380;boltzmann;121320;879552;275.466;275.466;
+u_2319.txt

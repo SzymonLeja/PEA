@@ -1,0 +1,3 @@
+C:/Users/Szymon/Desktop/chujukurwadzialaj/cmake-build-debug/CMakeFiles/pea.dir
+C:/Users/Szymon/Desktop/chujukurwadzialaj/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Szymon/Desktop/chujukurwadzialaj/cmake-build-debug/CMakeFiles/rebuild_cache.dir

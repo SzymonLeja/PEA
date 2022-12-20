@@ -1,0 +1,17 @@
+tsp_17.txt 39
+tsp_26.txt 937
+tsp_34.txt 1286
+tsp_39.txt 1530
+tsp_45.txt 1613
+tsp_53.txt 6905
+tsp_65.txt 1839
+tsp_70.txt 38673
+tsp_71.txt 1950
+gr_96.tsp 55209
+kroA_100.tsp 21282
+krop_124.atsp 36230
+kroB_150.tsp 26130
+pr_152.tsp 73682
+ftv_170.atsp 2755
+kroB_200.tsp 29437
+rbg_323.atsp 1326

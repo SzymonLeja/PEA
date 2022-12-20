@@ -1,0 +1,5 @@
+Nazwa pliku;Powtorzenia algorytmu;Optymalny koszt;Schemat chłodzenia;Sposób zamiany;Liczba epok;Temperatura startowa;Wyspółczynnik wychładzania;Czas 1;Koszt 1;Strata 1;Czas 2;Koszt 2;Strata 2;Czas 3;Koszt 3;Strata 3;Średnia strata;
+rbg_323.atsp;1;1326;geometric;two-opt;0;64600;0.99999;2.56665e+08;1474;11.1614;11.1614;
+rbg_323.atsp;1;1326;geometric;two-opt;9690;64600;0.99999;2.56581e+08;1441;8.6727;8.6727;
+rbg_323.atsp;1;1326;geometric;two-opt;19380;64600;0.99999;2.54966e+08;1451;9.42684;9.42684;
+rbg_323.atsp
